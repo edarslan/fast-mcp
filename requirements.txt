@@ -1,0 +1,26 @@
+# Core MCP library
+mcp
+
+# LangChain components for Google Gemini, Chroma, text handling
+langchain
+langchain-google-genai
+google-generativeai
+langchain-community # Includes Chroma, TextLoader, DuckDuckGo etc.
+chromadb
+
+# Web scraping
+requests
+beautifulsoup4
+
+# Text splitting (often included with langchain, but explicit)
+langchain-text-splitters
+
+# DuckDuckGo Search Tool dependency
+duckduckgo-search
+
+# Optional for TCP transport (uncomment if using mcp.run(transport='tcp', ...))
+# fastapi
+# uvicorn
+
+# Optional for .env file support (uncomment if using load_dotenv)
+python-dotenv

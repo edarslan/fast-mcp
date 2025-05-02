@@ -1,0 +1,3 @@
+izmir, ankara ve antalya hal fiyatlarını kaydetmek istiyorum, benim /Users/edaarslan/Desktop/fast-mcp/
+klasörünün içinde hal fiyatları diye klasörüm ve onun içinde illerin txt dosyaları var bu illerin hal fiyatlarını scrapleyip
+bana o textlerin içine belirli bir formatta yazar mısın.

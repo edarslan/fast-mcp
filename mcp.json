@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "langgraph-mcp": {
+            "command": "/Users/edaarslan/Desktop/fast-mcp/venv/bin/python",
+            "args": [
+                "/Users/edaarslan/Desktop/fast-mcp/test-mcp.py"
+            ],
+            "env": {
+                "Proje_ismi": "MCP-TEST"
+            }
+        }
+    }
+}
